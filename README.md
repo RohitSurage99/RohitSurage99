@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **Suraerohit@outlook.com**
+- 📫 How to reach me **Suragerohit@outlook.com & Rohitsurage@gmail.com**
 
 - ⚡ Fun fact **I waste most of my time playing games.**
 
