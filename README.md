@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsurage99&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsurage99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@rohit40747024" target="blank"><img src="https://img.shields.io/twitter/follow/@rohit40747024?logo=twitter&style=for-the-badge" alt="@rohit40747024" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ErSurage" target="blank"><img src="https://img.shields.io/twitter/follow/@/ErSurage/logo=twitter&style=for-the-badge" alt="/ErSurage" /></a> </p>
 
 - 🔭 I’m Actively **Looking career opportunity**
 
