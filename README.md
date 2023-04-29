@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web && App Development**
 
 - 📫 How to reach me **Suragerohit@outlook.com & Rohitsurage@gmail.com**
 
